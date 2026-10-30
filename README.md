@@ -8,4 +8,4 @@
 * `Anthropic, Claude Sonnet 5.5: Used to help create train code and create test cases and to debug the actual code itself`
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+`N/A`
